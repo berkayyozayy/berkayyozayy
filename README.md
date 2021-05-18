@@ -5,7 +5,7 @@
 I'm passionate self-taught Front End Web developer from Turkey.
 
 - 🔭 I’m currently working on JavaScript
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate on ReactJS
 - 💬 Ask me about anything 
 
