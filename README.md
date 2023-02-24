@@ -4,9 +4,8 @@
 
 I'm passionate self-taught Front End Web developer from Turkey.
 
-- 🔭 I’m currently working on Angular
+- 🔭 I’m currently working on ReactJS
 - 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate on ReactJS
 - 💬 Ask me about anything 
 
 **Languages and Tools**
